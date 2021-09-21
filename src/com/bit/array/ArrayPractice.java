@@ -29,6 +29,7 @@ public class ArrayPractice {
 	@Test
 	public void array1() {
 		//write a method that
+		System.out.println("git purpose");
 	}
 	
 	@Test
